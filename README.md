@@ -23,7 +23,12 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SlidingCard](https://github.com/mxn21/SlidingCard) | 漂亮的卡片滑动翻页特效 | Java | https://github.com/mxn21/SlidingCard
 
-### studio插件
+### viewpage
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[SCViewPager](https://github.com/sacot41/SCViewPager) | 漂亮的引导动画 | Java | https://github.com/sacot41/SCViewPager
+
+### 插件
 App Name                   | Describe                  | Major Language             | Download 
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) | 可以根据指定颜色生成Selector Drawable的插件 | Java | https://github.com/importre/android-selector-intellij-plugin
