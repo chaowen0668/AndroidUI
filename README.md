@@ -28,3 +28,7 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) | 可以根据指定颜色生成Selector Drawable的插件 | Java | https://github.com/importre/android-selector-intellij-plugin
 
+### 资源
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[Awesome-Material](https://github.com/android-awesome/Awesome-Material) | Combination of Font Awesome, Material Design, and Bootstrap!  | Java | https://github.com/android-awesome/Awesome-Material
