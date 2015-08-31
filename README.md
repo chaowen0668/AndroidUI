@@ -23,5 +23,8 @@ App Name                   | Describe                  | Major Language         
 :------------------------: | :------------------------ | :------------------------: | :------------------------: 
 [SlidingCard](https://github.com/mxn21/SlidingCard) | 漂亮的卡片滑动翻页特效 | Java | https://github.com/mxn21/SlidingCard
 
-
+### studio插件
+App Name                   | Describe                  | Major Language             | Download 
+:------------------------: | :------------------------ | :------------------------: | :------------------------: 
+[android-selector-intellij-plugin](https://github.com/importre/android-selector-intellij-plugin) | 可以根据指定颜色生成Selector Drawable的插件 | Java | https://github.com/importre/android-selector-intellij-plugin
 
